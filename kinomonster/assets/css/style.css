@@ -150,6 +150,10 @@ textarea.form-control {
 	vertical-align: middle;
 }
 
+.profile__name {
+	font-size: 50px;
+}
+
 
 footer {
 	color: #666;
